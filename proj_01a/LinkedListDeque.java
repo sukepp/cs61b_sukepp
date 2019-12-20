@@ -1,11 +1,11 @@
-public class LinkedListDeque <T> {
+public class LinkedListDeque<T> {
     private class Node {
         //U  _item;
         T _item;
         Node _next;
         Node _prev;
 
-        public Node(T item, Node next, Node prev) {
+        Node(T item, Node next, Node prev) {
             _item = item;
             _next = next;
             _prev = prev;
@@ -79,11 +79,7 @@ public class LinkedListDeque <T> {
     }
 
     public boolean isEmpty() {
-        if (size == 0) {
-            return true;
-        } else {
-            return false;
-        }
+        return size == 0;
     }
 
     public int size() {

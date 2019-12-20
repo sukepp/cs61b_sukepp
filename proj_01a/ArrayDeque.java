@@ -5,12 +5,12 @@ public class ArrayDeque<T> {
     int nextLast = 0;
 
     public ArrayDeque() {
-        arr = (T[])new Object[8];
+        arr = (T[]) new Object[8];
         size = 0;
     }
 
     public ArrayDeque(ArrayDeque other) {
-        arr = (T[])new Object[other.arr.length];
+        arr = (T[]) new Object[other.arr.length];
         size = other.size;
         nextLast = other.nextLast;
         nextFirst = other.nextFirst;
@@ -18,7 +18,7 @@ public class ArrayDeque<T> {
     }
 
     public void increaseSize() {
-        T[] newArr = (T[])new Object[arr.length * 2];
+        T[] newArr = (T[]) new Object[arr.length * 2];
         for (int i = 1; i < size + 1; i++) {
             newArr[i] = arr[(nextLast + i) % arr.length];
         }
@@ -28,7 +28,7 @@ public class ArrayDeque<T> {
     }
 
     public void decreaseSize() {
-        T[] newArr = (T[])new Object[arr.length / 2];
+        T[] newArr = (T[]) new Object[arr.length / 2];
         for (int i = 1; i < size + 1; i++) {
             newArr[i] = arr[(nextLast + i) % arr.length];
         }
@@ -56,7 +56,7 @@ public class ArrayDeque<T> {
     }
 
     public T removeFirst() {
-        if ((arr.length >= 16) && ((float)size / arr.length <= 0.25)) {
+        if ((arr.length >= 16) && ((float) size / arr.length <= 0.25)) {
             decreaseSize();
         }
         nextFirst =  (nextFirst - 1 + arr.length) % arr.length;
@@ -65,7 +65,7 @@ public class ArrayDeque<T> {
     }
 
     public T removeLast() {
-        if ((arr.length >= 16) && ((float)size / arr.length <= 0.25)) {
+        if ((arr.length >= 16) && ((float) size / arr.length <= 0.25)) {
             decreaseSize();
         }
         nextLast =  (nextLast + 1) % arr.length;
@@ -74,11 +74,7 @@ public class ArrayDeque<T> {
     }
 
     public boolean isEmpty() {
-        if (size == 0) {
-            return true;
-        } else {
-            return false;
-        }
+        return size == 0;
     }
 
     public int size() {
