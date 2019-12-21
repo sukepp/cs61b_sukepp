@@ -1,0 +1,502 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BLACK	StdDraw.java	/^    public static final Color BLACK = Color.BLACK;$/;"	f	class:StdDraw
+BLACK	examples/StdDraw.java	/^    public static final Color BLACK = Color.BLACK;$/;"	f	class:StdDraw
+BLUE	StdDraw.java	/^    public static final Color BLUE = Color.BLUE;$/;"	f	class:StdDraw
+BLUE	examples/StdDraw.java	/^    public static final Color BLUE = Color.BLUE;$/;"	f	class:StdDraw
+BOOK_BLUE	StdDraw.java	/^    public static final Color BOOK_BLUE = new Color(9, 90, 166);$/;"	f	class:StdDraw
+BOOK_BLUE	examples/StdDraw.java	/^    public static final Color BOOK_BLUE = new Color(9, 90, 166);$/;"	f	class:StdDraw
+BOOK_LIGHT_BLUE	StdDraw.java	/^    public static final Color BOOK_LIGHT_BLUE = new Color(103, 198, 243);$/;"	f	class:StdDraw
+BOOK_LIGHT_BLUE	examples/StdDraw.java	/^    public static final Color BOOK_LIGHT_BLUE = new Color(103, 198, 243);$/;"	f	class:StdDraw
+BOOK_RED	StdDraw.java	/^    public static final Color BOOK_RED = new Color(150, 35, 31);$/;"	f	class:StdDraw
+BOOK_RED	examples/StdDraw.java	/^    public static final Color BOOK_RED = new Color(150, 35, 31);$/;"	f	class:StdDraw
+BORDER	StdDraw.java	/^    private static final double BORDER = 0.00;$/;"	f	class:StdDraw	file:
+BORDER	examples/StdDraw.java	/^    private static final double BORDER = 0.00;$/;"	f	class:StdDraw	file:
+BasicInDemo	examples/BasicInDemo.java	/^public class BasicInDemo {$/;"	c
+Body	Body.java	/^	public Body (Body b) {$/;"	m	class:Body
+Body	Body.java	/^	public Body (double xP, double yP, double xV, double yV, double m, String img) {$/;"	m	class:Body
+Body	Body.java	/^public class Body {$/;"	c
+CHARSET_NAME	In.java	/^    private static final String CHARSET_NAME = "UTF-8";$/;"	f	class:In	file:
+CHARSET_NAME	StdOut.java	/^    private static final String CHARSET_NAME = "UTF-8";$/;"	f	class:StdOut	file:
+CHARSET_NAME	examples/In.java	/^    private static final String CHARSET_NAME = "UTF-8";$/;"	f	class:In	file:
+CHARSET_NAME	examples/StdOut.java	/^    private static final String CHARSET_NAME = "UTF-8";$/;"	f	class:StdOut	file:
+CYAN	StdDraw.java	/^    public static final Color CYAN = Color.CYAN;$/;"	f	class:StdDraw
+CYAN	examples/StdDraw.java	/^    public static final Color CYAN = Color.CYAN;$/;"	f	class:StdDraw
+DARK_GRAY	StdDraw.java	/^    public static final Color DARK_GRAY = Color.DARK_GRAY;$/;"	f	class:StdDraw
+DARK_GRAY	examples/StdDraw.java	/^    public static final Color DARK_GRAY = Color.DARK_GRAY;$/;"	f	class:StdDraw
+DEFAULT_CLEAR_COLOR	StdDraw.java	/^    private static final Color DEFAULT_CLEAR_COLOR = WHITE;$/;"	f	class:StdDraw	file:
+DEFAULT_CLEAR_COLOR	examples/StdDraw.java	/^    private static final Color DEFAULT_CLEAR_COLOR = WHITE;$/;"	f	class:StdDraw	file:
+DEFAULT_FONT	StdDraw.java	/^    private static final Font DEFAULT_FONT = new Font("SansSerif", Font.PLAIN, 16);$/;"	f	class:StdDraw	file:
+DEFAULT_FONT	examples/StdDraw.java	/^    private static final Font DEFAULT_FONT = new Font("SansSerif", Font.PLAIN, 16);$/;"	f	class:StdDraw	file:
+DEFAULT_PEN_COLOR	StdDraw.java	/^    private static final Color DEFAULT_PEN_COLOR   = BLACK;$/;"	f	class:StdDraw	file:
+DEFAULT_PEN_COLOR	examples/StdDraw.java	/^    private static final Color DEFAULT_PEN_COLOR   = BLACK;$/;"	f	class:StdDraw	file:
+DEFAULT_PEN_RADIUS	StdDraw.java	/^    private static final double DEFAULT_PEN_RADIUS = 0.002;$/;"	f	class:StdDraw	file:
+DEFAULT_PEN_RADIUS	examples/StdDraw.java	/^    private static final double DEFAULT_PEN_RADIUS = 0.002;$/;"	f	class:StdDraw	file:
+DEFAULT_SIZE	StdDraw.java	/^    private static final int DEFAULT_SIZE = 512;$/;"	f	class:StdDraw	file:
+DEFAULT_SIZE	examples/StdDraw.java	/^    private static final int DEFAULT_SIZE = 512;$/;"	f	class:StdDraw	file:
+DEFAULT_XMAX	StdDraw.java	/^    private static final double DEFAULT_XMAX = 1.0;$/;"	f	class:StdDraw	file:
+DEFAULT_XMAX	examples/StdDraw.java	/^    private static final double DEFAULT_XMAX = 1.0;$/;"	f	class:StdDraw	file:
+DEFAULT_XMIN	StdDraw.java	/^    private static final double DEFAULT_XMIN = 0.0;$/;"	f	class:StdDraw	file:
+DEFAULT_XMIN	examples/StdDraw.java	/^    private static final double DEFAULT_XMIN = 0.0;$/;"	f	class:StdDraw	file:
+DEFAULT_YMAX	StdDraw.java	/^    private static final double DEFAULT_YMAX = 1.0;$/;"	f	class:StdDraw	file:
+DEFAULT_YMAX	examples/StdDraw.java	/^    private static final double DEFAULT_YMAX = 1.0;$/;"	f	class:StdDraw	file:
+DEFAULT_YMIN	StdDraw.java	/^    private static final double DEFAULT_YMIN = 0.0;$/;"	f	class:StdDraw	file:
+DEFAULT_YMIN	examples/StdDraw.java	/^    private static final double DEFAULT_YMIN = 0.0;$/;"	f	class:StdDraw	file:
+EMPTY_PATTERN	In.java	/^    private static final Pattern EMPTY_PATTERN$/;"	f	class:In	file:
+EMPTY_PATTERN	examples/In.java	/^    private static final Pattern EMPTY_PATTERN$/;"	f	class:In	file:
+EVERYTHING_PATTERN	In.java	/^    private static final Pattern EVERYTHING_PATTERN$/;"	f	class:In	file:
+EVERYTHING_PATTERN	examples/In.java	/^    private static final Pattern EVERYTHING_PATTERN$/;"	f	class:In	file:
+GRAY	StdDraw.java	/^    public static final Color GRAY = Color.GRAY;$/;"	f	class:StdDraw
+GRAY	examples/StdDraw.java	/^    public static final Color GRAY = Color.GRAY;$/;"	f	class:StdDraw
+GREEN	StdDraw.java	/^    public static final Color GREEN  = Color.GREEN;$/;"	f	class:StdDraw
+GREEN	examples/StdDraw.java	/^    public static final Color GREEN  = Color.GREEN;$/;"	f	class:StdDraw
+In	In.java	/^    public In() {$/;"	m	class:In
+In	In.java	/^    public In(File file) {$/;"	m	class:In
+In	In.java	/^    public In(Scanner scanner) {$/;"	m	class:In
+In	In.java	/^    public In(String s) {$/;"	m	class:In
+In	In.java	/^    public In(URL url) {$/;"	m	class:In
+In	In.java	/^    public In(java.net.Socket socket) {$/;"	m	class:In
+In	In.java	/^public final class In {$/;"	c
+In	examples/In.java	/^    public In() {$/;"	m	class:In
+In	examples/In.java	/^    public In(File file) {$/;"	m	class:In
+In	examples/In.java	/^    public In(Scanner scanner) {$/;"	m	class:In
+In	examples/In.java	/^    public In(String s) {$/;"	m	class:In
+In	examples/In.java	/^    public In(URL url) {$/;"	m	class:In
+In	examples/In.java	/^    public In(java.net.Socket socket) {$/;"	m	class:In
+In	examples/In.java	/^public final class In {$/;"	c
+InDemo	examples/InDemo.java	/^public class InDemo {	$/;"	c
+LIGHT_GRAY	StdDraw.java	/^    public static final Color LIGHT_GRAY = Color.LIGHT_GRAY;$/;"	f	class:StdDraw
+LIGHT_GRAY	examples/StdDraw.java	/^    public static final Color LIGHT_GRAY = Color.LIGHT_GRAY;$/;"	f	class:StdDraw
+LOCALE	In.java	/^    private static final Locale LOCALE = Locale.US;$/;"	f	class:In	file:
+LOCALE	StdOut.java	/^    private static final Locale LOCALE = Locale.US;$/;"	f	class:StdOut	file:
+LOCALE	examples/In.java	/^    private static final Locale LOCALE = Locale.US;$/;"	f	class:In	file:
+LOCALE	examples/StdOut.java	/^    private static final Locale LOCALE = Locale.US;$/;"	f	class:StdOut	file:
+MAGENTA	StdDraw.java	/^    public static final Color MAGENTA = Color.MAGENTA;$/;"	f	class:StdDraw
+MAGENTA	examples/StdDraw.java	/^    public static final Color MAGENTA = Color.MAGENTA;$/;"	f	class:StdDraw
+NBody	NBody.java	/^public class NBody {$/;"	c
+ORANGE	StdDraw.java	/^    public static final Color ORANGE = Color.ORANGE;$/;"	f	class:StdDraw
+ORANGE	examples/StdDraw.java	/^    public static final Color ORANGE = Color.ORANGE;$/;"	f	class:StdDraw
+PINK	StdDraw.java	/^    public static final Color PINK = Color.PINK;$/;"	f	class:StdDraw
+PINK	examples/StdDraw.java	/^    public static final Color PINK = Color.PINK;$/;"	f	class:StdDraw
+PRINCETON_ORANGE	StdDraw.java	/^    public static final Color PRINCETON_ORANGE = new Color(245, 128, 37);$/;"	f	class:StdDraw
+PRINCETON_ORANGE	examples/StdDraw.java	/^    public static final Color PRINCETON_ORANGE = new Color(245, 128, 37);$/;"	f	class:StdDraw
+RED	StdDraw.java	/^    public static final Color RED = Color.RED;$/;"	f	class:StdDraw
+RED	examples/StdDraw.java	/^    public static final Color RED = Color.RED;$/;"	f	class:StdDraw
+StdDraw	StdDraw.java	/^    private StdDraw() { }$/;"	m	class:StdDraw	file:
+StdDraw	StdDraw.java	/^public final class StdDraw implements ActionListener, MouseListener, MouseMotionListener, KeyListener {$/;"	c
+StdDraw	examples/StdDraw.java	/^    private StdDraw() { }$/;"	m	class:StdDraw	file:
+StdDraw	examples/StdDraw.java	/^public final class StdDraw implements ActionListener, MouseListener, MouseMotionListener, KeyListener {$/;"	c
+StdDrawDemo	examples/StdDrawDemo.java	/^public class StdDrawDemo {$/;"	c
+StdOut	StdOut.java	/^    private StdOut() { }$/;"	m	class:StdOut	file:
+StdOut	StdOut.java	/^public final class StdOut {$/;"	c
+StdOut	examples/StdOut.java	/^    private StdOut() { }$/;"	m	class:StdOut	file:
+StdOut	examples/StdOut.java	/^public final class StdOut {$/;"	c
+StdRandom	examples/StdRandom.java	/^    private StdRandom() { }$/;"	m	class:StdRandom	file:
+StdRandom	examples/StdRandom.java	/^public final class StdRandom {$/;"	c
+TestBody	TestBody.java	/^public class TestBody {$/;"	c
+TestBodyConstructor	TestBodyConstructor.java	/^public class TestBodyConstructor {$/;"	c
+TestCalcDistance	TestCalcDistance.java	/^public class TestCalcDistance {$/;"	c
+TestCalcForceExertedBy	TestCalcForceExertedBy.java	/^public class TestCalcForceExertedBy {$/;"	c
+TestCalcForceExertedByXY	TestCalcForceExertedByXY.java	/^public class TestCalcForceExertedByXY {$/;"	c
+TestCalcNetForceExertedByXY	TestCalcNetForceExertedByXY.java	/^public class TestCalcNetForceExertedByXY {$/;"	c
+TestReadBodies	TestReadBodies.java	/^public class TestReadBodies {$/;"	c
+TestReadRadius	TestReadRadius.java	/^public class TestReadRadius {$/;"	c
+TestUpdate	TestUpdate.java	/^public class TestUpdate {$/;"	c
+WHITE	StdDraw.java	/^    public static final Color WHITE = Color.WHITE;$/;"	f	class:StdDraw
+WHITE	examples/StdDraw.java	/^    public static final Color WHITE = Color.WHITE;$/;"	f	class:StdDraw
+WHITESPACE_PATTERN	In.java	/^    private static final Pattern WHITESPACE_PATTERN$/;"	f	class:In	file:
+WHITESPACE_PATTERN	examples/In.java	/^    private static final Pattern WHITESPACE_PATTERN$/;"	f	class:In	file:
+YELLOW	StdDraw.java	/^    public static final Color YELLOW = Color.YELLOW;$/;"	f	class:StdDraw
+YELLOW	examples/StdDraw.java	/^    public static final Color YELLOW = Color.YELLOW;$/;"	f	class:StdDraw
+actionPerformed	StdDraw.java	/^    public void actionPerformed(ActionEvent e) {$/;"	m	class:StdDraw
+actionPerformed	examples/StdDraw.java	/^    public void actionPerformed(ActionEvent e) {$/;"	m	class:StdDraw
+approxEqual	TestCalcForceExertedByXY.java	/^    private static boolean approxEqual(double actual, double expected, double eps) {$/;"	m	class:TestCalcForceExertedByXY	file:
+arc	StdDraw.java	/^    public static void arc(double x, double y, double radius, double angle1, double angle2) {$/;"	m	class:StdDraw
+arc	examples/StdDraw.java	/^    public static void arc(double x, double y, double radius, double angle1, double angle2) {$/;"	m	class:StdDraw
+bernoulli	examples/StdRandom.java	/^    public static boolean bernoulli() {$/;"	m	class:StdRandom
+bernoulli	examples/StdRandom.java	/^    public static boolean bernoulli(double p) {$/;"	m	class:StdRandom
+calcDistance	Body.java	/^	public double calcDistance(Body b) {$/;"	m	class:Body
+calcForceExertedBy	Body.java	/^	public double calcForceExertedBy(Body b) {$/;"	m	class:Body
+calcForceExertedByX	Body.java	/^	public double calcForceExertedByX(Body b) {$/;"	m	class:Body
+calcForceExertedByY	Body.java	/^	public double calcForceExertedByY(Body b) {$/;"	m	class:Body
+calcNetForceExertedByX	Body.java	/^	public double calcNetForceExertedByX(Body[] allBodies) {$/;"	m	class:Body
+calcNetForceExertedByXY	TestCalcNetForceExertedByXY.java	/^    private static void calcNetForceExertedByXY() {$/;"	m	class:TestCalcNetForceExertedByXY	file:
+calcNetForceExertedByY	Body.java	/^	public double calcNetForceExertedByY(Body[] allBodies) {$/;"	m	class:Body
+cauchy	examples/StdRandom.java	/^    public static double cauchy() {$/;"	m	class:StdRandom
+checkBodyConstructor	TestBodyConstructor.java	/^    private static void checkBodyConstructor() {$/;"	m	class:TestBodyConstructor	file:
+checkCalcDistance	TestCalcDistance.java	/^    private static void checkCalcDistance() {$/;"	m	class:TestCalcDistance	file:
+checkCalcForceExertedBy	TestCalcForceExertedBy.java	/^    private static void checkCalcForceExertedBy() {$/;"	m	class:TestCalcForceExertedBy	file:
+checkCalcForceExertedByXY	TestCalcForceExertedByXY.java	/^    private static void checkCalcForceExertedByXY() {$/;"	m	class:TestCalcForceExertedByXY	file:
+checkEquals	TestBodyConstructor.java	/^    private static void checkEquals(double expected, double actual, String label) {$/;"	m	class:TestBodyConstructor	file:
+checkEquals	TestCalcDistance.java	/^    private static void checkEquals(double actual, double expected, String label, double eps) {$/;"	m	class:TestCalcDistance	file:
+checkEquals	TestCalcForceExertedBy.java	/^    private static void checkEquals(double actual, double expected, String label, double eps) {$/;"	m	class:TestCalcForceExertedBy	file:
+checkEquals	TestCalcForceExertedByXY.java	/^    private static void checkEquals(double actual, double expected, String label, double eps) {$/;"	m	class:TestCalcForceExertedByXY	file:
+checkEquals	TestCalcNetForceExertedByXY.java	/^    private static void checkEquals(double expected, double actual, String label) {$/;"	m	class:TestCalcNetForceExertedByXY	file:
+checkEquals	TestReadRadius.java	/^    private static void checkEquals(double actual, double expected, String label, double eps) {$/;"	m	class:TestReadRadius	file:
+checkEquals	TestUpdate.java	/^    private static void checkEquals(double expected, double actual, String label, double eps) {$/;"	m	class:TestUpdate	file:
+checkReadBodys	TestReadBodies.java	/^    private static String checkReadBodys() {$/;"	m	class:TestReadBodies	file:
+checkReadRadius	TestReadRadius.java	/^    private static void checkReadRadius() {$/;"	m	class:TestReadRadius	file:
+checkStringEquals	TestBodyConstructor.java	/^    private static void checkStringEquals(String expected, String actual, String label) {$/;"	m	class:TestBodyConstructor	file:
+checkUpdate	TestUpdate.java	/^    private static void checkUpdate() {$/;"	m	class:TestUpdate	file:
+circle	StdDraw.java	/^    public static void circle(double x, double y, double radius) {$/;"	m	class:StdDraw
+circle	examples/StdDraw.java	/^    public static void circle(double x, double y, double radius) {$/;"	m	class:StdDraw
+clear	StdDraw.java	/^    public static void clear() {$/;"	m	class:StdDraw
+clear	StdDraw.java	/^    public static void clear(Color color) {$/;"	m	class:StdDraw
+clear	examples/StdDraw.java	/^    public static void clear() {$/;"	m	class:StdDraw
+clear	examples/StdDraw.java	/^    public static void clear(Color color) {$/;"	m	class:StdDraw
+close	In.java	/^    public void close() {$/;"	m	class:In
+close	StdOut.java	/^    public static void close() {$/;"	m	class:StdOut
+close	examples/In.java	/^    public void close() {$/;"	m	class:In
+close	examples/StdOut.java	/^    public static void close() {$/;"	m	class:StdOut
+createMenuBar	StdDraw.java	/^    private static JMenuBar createMenuBar() {$/;"	m	class:StdDraw	file:
+createMenuBar	examples/StdDraw.java	/^    private static JMenuBar createMenuBar() {$/;"	m	class:StdDraw	file:
+defer	StdDraw.java	/^    private static boolean defer = false;$/;"	f	class:StdDraw	file:
+defer	examples/StdDraw.java	/^    private static boolean defer = false;$/;"	f	class:StdDraw	file:
+disableDoubleBuffering	StdDraw.java	/^    public static void disableDoubleBuffering() {$/;"	m	class:StdDraw
+disableDoubleBuffering	examples/StdDraw.java	/^    public static void disableDoubleBuffering() {$/;"	m	class:StdDraw
+discrete	examples/StdRandom.java	/^    public static int discrete(double[] probabilities) {$/;"	m	class:StdRandom
+discrete	examples/StdRandom.java	/^    public static int discrete(int[] frequencies) {$/;"	m	class:StdRandom
+doubleEquals	TestReadBodies.java	/^    private static boolean doubleEquals(double actual, double expected, double eps) {$/;"	m	class:TestReadBodies	file:
+draw	Body.java	/^	public void draw() {$/;"	m	class:Body
+draw	StdDraw.java	/^    private static void draw() {$/;"	m	class:StdDraw	file:
+draw	examples/StdDraw.java	/^    private static void draw() {$/;"	m	class:StdDraw	file:
+drawBackground	NBody.java	/^	public static void drawBackground(double radius, String imageToDraw) {$/;"	m	class:NBody
+drawRandom	examples/StdDrawDemo.java	/^	public static void drawRandom() {$/;"	m	class:StdDrawDemo
+drawThree	examples/StdDrawDemo.java	/^	public static void drawThree() {$/;"	m	class:StdDrawDemo
+drawZoom	examples/StdDrawDemo.java	/^	public static void drawZoom() {$/;"	m	class:StdDrawDemo
+ellipse	StdDraw.java	/^    public static void ellipse(double x, double y, double semiMajorAxis, double semiMinorAxis) {$/;"	m	class:StdDraw
+ellipse	examples/StdDraw.java	/^    public static void ellipse(double x, double y, double semiMajorAxis, double semiMinorAxis) {$/;"	m	class:StdDraw
+enableDoubleBuffering	StdDraw.java	/^    public static void enableDoubleBuffering() {$/;"	m	class:StdDraw
+enableDoubleBuffering	examples/StdDraw.java	/^    public static void enableDoubleBuffering() {$/;"	m	class:StdDraw
+exists	In.java	/^    public boolean exists()  {$/;"	m	class:In
+exists	examples/In.java	/^    public boolean exists()  {$/;"	m	class:In
+exp	examples/StdRandom.java	/^    public static double exp(double lambda) {$/;"	m	class:StdRandom
+factorX	StdDraw.java	/^    private static double factorX(double w) { return w * width  \/ Math.abs(xmax - xmin);  }$/;"	m	class:StdDraw	file:
+factorX	examples/StdDraw.java	/^    private static double factorX(double w) { return w * width  \/ Math.abs(xmax - xmin);  }$/;"	m	class:StdDraw	file:
+factorY	StdDraw.java	/^    private static double factorY(double h) { return h * height \/ Math.abs(ymax - ymin);  }$/;"	m	class:StdDraw	file:
+factorY	examples/StdDraw.java	/^    private static double factorY(double h) { return h * height \/ Math.abs(ymax - ymin);  }$/;"	m	class:StdDraw	file:
+filledCircle	StdDraw.java	/^    public static void filledCircle(double x, double y, double radius) {$/;"	m	class:StdDraw
+filledCircle	examples/StdDraw.java	/^    public static void filledCircle(double x, double y, double radius) {$/;"	m	class:StdDraw
+filledEllipse	StdDraw.java	/^    public static void filledEllipse(double x, double y, double semiMajorAxis, double semiMinorAxis) {$/;"	m	class:StdDraw
+filledEllipse	examples/StdDraw.java	/^    public static void filledEllipse(double x, double y, double semiMajorAxis, double semiMinorAxis) {$/;"	m	class:StdDraw
+filledPolygon	StdDraw.java	/^    public static void filledPolygon(double[] x, double[] y) {$/;"	m	class:StdDraw
+filledPolygon	examples/StdDraw.java	/^    public static void filledPolygon(double[] x, double[] y) {$/;"	m	class:StdDraw
+filledRectangle	StdDraw.java	/^    public static void filledRectangle(double x, double y, double halfWidth, double halfHeight) {$/;"	m	class:StdDraw
+filledRectangle	examples/StdDraw.java	/^    public static void filledRectangle(double x, double y, double halfWidth, double halfHeight) {$/;"	m	class:StdDraw
+filledSquare	StdDraw.java	/^    public static void filledSquare(double x, double y, double halfLength) {$/;"	m	class:StdDraw
+filledSquare	examples/StdDraw.java	/^    public static void filledSquare(double x, double y, double halfLength) {$/;"	m	class:StdDraw
+font	StdDraw.java	/^    private static Font font;$/;"	f	class:StdDraw	file:
+font	examples/StdDraw.java	/^    private static Font font;$/;"	f	class:StdDraw	file:
+frame	StdDraw.java	/^    private static JFrame frame;$/;"	f	class:StdDraw	file:
+frame	examples/StdDraw.java	/^    private static JFrame frame;$/;"	f	class:StdDraw	file:
+gaussian	examples/StdRandom.java	/^    public static double gaussian() {$/;"	m	class:StdRandom
+gaussian	examples/StdRandom.java	/^    public static double gaussian(double mu, double sigma) {$/;"	m	class:StdRandom
+geometric	examples/StdRandom.java	/^    public static int geometric(double p) {$/;"	m	class:StdRandom
+getFont	StdDraw.java	/^    public static Font getFont() {$/;"	m	class:StdDraw
+getFont	examples/StdDraw.java	/^    public static Font getFont() {$/;"	m	class:StdDraw
+getImage	StdDraw.java	/^    private static Image getImage(String filename) {$/;"	m	class:StdDraw	file:
+getImage	examples/StdDraw.java	/^    private static Image getImage(String filename) {$/;"	m	class:StdDraw	file:
+getPenColor	StdDraw.java	/^    public static Color getPenColor() {$/;"	m	class:StdDraw
+getPenColor	examples/StdDraw.java	/^    public static Color getPenColor() {$/;"	m	class:StdDraw
+getPenRadius	StdDraw.java	/^    public static double getPenRadius() {$/;"	m	class:StdDraw
+getPenRadius	examples/StdDraw.java	/^    public static double getPenRadius() {$/;"	m	class:StdDraw
+getSeed	examples/StdRandom.java	/^    public static long getSeed() {$/;"	m	class:StdRandom
+grav	Body.java	/^	static final double grav = 6.67e-11;$/;"	f	class:Body
+hasNextChar	In.java	/^    public boolean hasNextChar() {$/;"	m	class:In
+hasNextChar	examples/In.java	/^    public boolean hasNextChar() {$/;"	m	class:In
+hasNextKeyTyped	StdDraw.java	/^    public static boolean hasNextKeyTyped() {$/;"	m	class:StdDraw
+hasNextKeyTyped	examples/StdDraw.java	/^    public static boolean hasNextKeyTyped() {$/;"	m	class:StdDraw
+hasNextLine	In.java	/^    public boolean hasNextLine() {$/;"	m	class:In
+hasNextLine	examples/In.java	/^    public boolean hasNextLine() {$/;"	m	class:In
+height	StdDraw.java	/^    private static int height = DEFAULT_SIZE;$/;"	f	class:StdDraw	file:
+height	examples/StdDraw.java	/^    private static int height = DEFAULT_SIZE;$/;"	f	class:StdDraw	file:
+imageToDraw	examples/StdDrawDemo.java	/^	public static String imageToDraw = "advice.png";$/;"	f	class:StdDrawDemo
+imgFileName	Body.java	/^	String imgFileName;$/;"	f	class:Body
+init	StdDraw.java	/^    private static void init() {$/;"	m	class:StdDraw	file:
+init	examples/StdDraw.java	/^    private static void init() {$/;"	m	class:StdDraw	file:
+isEmpty	In.java	/^    public boolean isEmpty() {$/;"	m	class:In
+isEmpty	examples/In.java	/^    public boolean isEmpty() {$/;"	m	class:In
+isKeyPressed	StdDraw.java	/^    public static boolean isKeyPressed(int keycode) {$/;"	m	class:StdDraw
+isKeyPressed	examples/StdDraw.java	/^    public static boolean isKeyPressed(int keycode) {$/;"	m	class:StdDraw
+isMousePressed	StdDraw.java	/^    private static boolean isMousePressed = false;$/;"	f	class:StdDraw	file:
+isMousePressed	StdDraw.java	/^    public static boolean isMousePressed() {$/;"	m	class:StdDraw
+isMousePressed	examples/StdDraw.java	/^    private static boolean isMousePressed = false;$/;"	f	class:StdDraw	file:
+isMousePressed	examples/StdDraw.java	/^    public static boolean isMousePressed() {$/;"	m	class:StdDraw
+keyLock	StdDraw.java	/^    private static Object keyLock = new Object();$/;"	f	class:StdDraw	file:
+keyLock	examples/StdDraw.java	/^    private static Object keyLock = new Object();$/;"	f	class:StdDraw	file:
+keyPressed	StdDraw.java	/^    public void keyPressed(KeyEvent e) {$/;"	m	class:StdDraw
+keyPressed	examples/StdDraw.java	/^    public void keyPressed(KeyEvent e) {$/;"	m	class:StdDraw
+keyReleased	StdDraw.java	/^    public void keyReleased(KeyEvent e) {$/;"	m	class:StdDraw
+keyReleased	examples/StdDraw.java	/^    public void keyReleased(KeyEvent e) {$/;"	m	class:StdDraw
+keyTyped	StdDraw.java	/^    public void keyTyped(KeyEvent e) {$/;"	m	class:StdDraw
+keyTyped	examples/StdDraw.java	/^    public void keyTyped(KeyEvent e) {$/;"	m	class:StdDraw
+keysDown	StdDraw.java	/^    private static TreeSet<Integer> keysDown = new TreeSet<Integer>();$/;"	f	class:StdDraw	file:
+keysDown	examples/StdDraw.java	/^    private static TreeSet<Integer> keysDown = new TreeSet<Integer>();$/;"	f	class:StdDraw	file:
+keysTyped	StdDraw.java	/^    private static LinkedList<Character> keysTyped = new LinkedList<Character>();$/;"	f	class:StdDraw	file:
+keysTyped	examples/StdDraw.java	/^    private static LinkedList<Character> keysTyped = new LinkedList<Character>();$/;"	f	class:StdDraw	file:
+line	StdDraw.java	/^    public static void line(double x0, double y0, double x1, double y1) {$/;"	m	class:StdDraw
+line	examples/StdDraw.java	/^    public static void line(double x0, double y0, double x1, double y1) {$/;"	m	class:StdDraw
+main	In.java	/^    public static void main(String[] args) {$/;"	m	class:In
+main	NBody.java	/^	public static void main(String[] args) {$/;"	m	class:NBody
+main	StdDraw.java	/^    public static void main(String[] args) {$/;"	m	class:StdDraw
+main	StdOut.java	/^    public static void main(String[] args) {$/;"	m	class:StdOut
+main	TestBody.java	/^	public static void main(String[] args) {$/;"	m	class:TestBody
+main	TestBodyConstructor.java	/^    public static void main(String[] args) {$/;"	m	class:TestBodyConstructor
+main	TestCalcDistance.java	/^    public static void main(String[] args) {$/;"	m	class:TestCalcDistance
+main	TestCalcForceExertedBy.java	/^    public static void main(String[] args) {$/;"	m	class:TestCalcForceExertedBy
+main	TestCalcForceExertedByXY.java	/^    public static void main(String[] args) {$/;"	m	class:TestCalcForceExertedByXY
+main	TestCalcNetForceExertedByXY.java	/^    public static void main(String[] args) {$/;"	m	class:TestCalcNetForceExertedByXY
+main	TestReadBodies.java	/^    public static void main(String[] args) {$/;"	m	class:TestReadBodies
+main	TestReadRadius.java	/^    public static void main(String[] args) {$/;"	m	class:TestReadRadius
+main	TestUpdate.java	/^    public static void main(String[] args) {$/;"	m	class:TestUpdate
+main	examples/BasicInDemo.java	/^	public static void main(String[] args) {$/;"	m	class:BasicInDemo
+main	examples/In.java	/^    public static void main(String[] args) {$/;"	m	class:In
+main	examples/InDemo.java	/^	public static void main(String[] args) {$/;"	m	class:InDemo
+main	examples/StdDraw.java	/^    public static void main(String[] args) {$/;"	m	class:StdDraw
+main	examples/StdDrawDemo.java	/^	public static void main(String[] args) {$/;"	m	class:StdDrawDemo
+main	examples/StdOut.java	/^    public static void main(String[] args) {$/;"	m	class:StdOut
+main	examples/StdRandom.java	/^    public static void main(String[] args) {$/;"	m	class:StdRandom
+mass	Body.java	/^	double mass;$/;"	f	class:Body
+mouseClicked	StdDraw.java	/^    public void mouseClicked(MouseEvent e) {$/;"	m	class:StdDraw
+mouseClicked	examples/StdDraw.java	/^    public void mouseClicked(MouseEvent e) {$/;"	m	class:StdDraw
+mouseDragged	StdDraw.java	/^    public void mouseDragged(MouseEvent e)  {$/;"	m	class:StdDraw
+mouseDragged	examples/StdDraw.java	/^    public void mouseDragged(MouseEvent e)  {$/;"	m	class:StdDraw
+mouseEntered	StdDraw.java	/^    public void mouseEntered(MouseEvent e) {$/;"	m	class:StdDraw
+mouseEntered	examples/StdDraw.java	/^    public void mouseEntered(MouseEvent e) {$/;"	m	class:StdDraw
+mouseExited	StdDraw.java	/^    public void mouseExited(MouseEvent e) {$/;"	m	class:StdDraw
+mouseExited	examples/StdDraw.java	/^    public void mouseExited(MouseEvent e) {$/;"	m	class:StdDraw
+mouseLock	StdDraw.java	/^    private static Object mouseLock = new Object();$/;"	f	class:StdDraw	file:
+mouseLock	examples/StdDraw.java	/^    private static Object mouseLock = new Object();$/;"	f	class:StdDraw	file:
+mouseMoved	StdDraw.java	/^    public void mouseMoved(MouseEvent e) {$/;"	m	class:StdDraw
+mouseMoved	examples/StdDraw.java	/^    public void mouseMoved(MouseEvent e) {$/;"	m	class:StdDraw
+mousePressed	StdDraw.java	/^    public static boolean mousePressed() {$/;"	m	class:StdDraw
+mousePressed	StdDraw.java	/^    public void mousePressed(MouseEvent e) {$/;"	m	class:StdDraw
+mousePressed	examples/StdDraw.java	/^    public static boolean mousePressed() {$/;"	m	class:StdDraw
+mousePressed	examples/StdDraw.java	/^    public void mousePressed(MouseEvent e) {$/;"	m	class:StdDraw
+mouseReleased	StdDraw.java	/^    public void mouseReleased(MouseEvent e) {$/;"	m	class:StdDraw
+mouseReleased	examples/StdDraw.java	/^    public void mouseReleased(MouseEvent e) {$/;"	m	class:StdDraw
+mouseX	StdDraw.java	/^    private static double mouseX = 0;$/;"	f	class:StdDraw	file:
+mouseX	StdDraw.java	/^    public static double mouseX() {$/;"	m	class:StdDraw
+mouseX	examples/StdDraw.java	/^    private static double mouseX = 0;$/;"	f	class:StdDraw	file:
+mouseX	examples/StdDraw.java	/^    public static double mouseX() {$/;"	m	class:StdDraw
+mouseY	StdDraw.java	/^    private static double mouseY = 0;$/;"	f	class:StdDraw	file:
+mouseY	StdDraw.java	/^    public static double mouseY() {$/;"	m	class:StdDraw
+mouseY	examples/StdDraw.java	/^    private static double mouseY = 0;$/;"	f	class:StdDraw	file:
+mouseY	examples/StdDraw.java	/^    public static double mouseY() {$/;"	m	class:StdDraw
+nextKeyTyped	StdDraw.java	/^    public static char nextKeyTyped() {$/;"	m	class:StdDraw
+nextKeyTyped	examples/StdDraw.java	/^    public static char nextKeyTyped() {$/;"	m	class:StdDraw
+offscreen	StdDraw.java	/^    private static Graphics2D offscreen, onscreen;$/;"	f	class:StdDraw	file:
+offscreen	examples/StdDraw.java	/^    private static Graphics2D offscreen, onscreen;$/;"	f	class:StdDraw	file:
+offscreenImage	StdDraw.java	/^    private static BufferedImage offscreenImage, onscreenImage;$/;"	f	class:StdDraw	file:
+offscreenImage	examples/StdDraw.java	/^    private static BufferedImage offscreenImage, onscreenImage;$/;"	f	class:StdDraw	file:
+onscreen	StdDraw.java	/^    private static Graphics2D offscreen, onscreen;$/;"	f	class:StdDraw	file:
+onscreen	examples/StdDraw.java	/^    private static Graphics2D offscreen, onscreen;$/;"	f	class:StdDraw	file:
+onscreenImage	StdDraw.java	/^    private static BufferedImage offscreenImage, onscreenImage;$/;"	f	class:StdDraw	file:
+onscreenImage	examples/StdDraw.java	/^    private static BufferedImage offscreenImage, onscreenImage;$/;"	f	class:StdDraw	file:
+out	StdOut.java	/^    private static PrintWriter out;$/;"	f	class:StdOut	file:
+out	examples/StdOut.java	/^    private static PrintWriter out;$/;"	f	class:StdOut	file:
+pareto	examples/StdRandom.java	/^    public static double pareto() {$/;"	m	class:StdRandom
+pareto	examples/StdRandom.java	/^    public static double pareto(double alpha) {$/;"	m	class:StdRandom
+pause	StdDraw.java	/^    public static void pause(int t) {$/;"	m	class:StdDraw
+pause	examples/StdDraw.java	/^    public static void pause(int t) {$/;"	m	class:StdDraw
+penColor	StdDraw.java	/^    private static Color penColor;$/;"	f	class:StdDraw	file:
+penColor	examples/StdDraw.java	/^    private static Color penColor;$/;"	f	class:StdDraw	file:
+penRadius	StdDraw.java	/^    private static double penRadius;$/;"	f	class:StdDraw	file:
+penRadius	examples/StdDraw.java	/^    private static double penRadius;$/;"	f	class:StdDraw	file:
+picture	StdDraw.java	/^    public static void picture(double x, double y, String filename) {$/;"	m	class:StdDraw
+picture	StdDraw.java	/^    public static void picture(double x, double y, String filename, double degrees) {$/;"	m	class:StdDraw
+picture	StdDraw.java	/^    public static void picture(double x, double y, String filename, double scaledWidth, double scaledHeight) {$/;"	m	class:StdDraw
+picture	StdDraw.java	/^    public static void picture(double x, double y, String filename, double scaledWidth, double scaledHeight, double degrees) {$/;"	m	class:StdDraw
+picture	examples/StdDraw.java	/^    public static void picture(double x, double y, String filename) {$/;"	m	class:StdDraw
+picture	examples/StdDraw.java	/^    public static void picture(double x, double y, String filename, double degrees) {$/;"	m	class:StdDraw
+picture	examples/StdDraw.java	/^    public static void picture(double x, double y, String filename, double scaledWidth, double scaledHeight) {$/;"	m	class:StdDraw
+picture	examples/StdDraw.java	/^    public static void picture(double x, double y, String filename, double scaledWidth, double scaledHeight, double degrees) {$/;"	m	class:StdDraw
+pixel	StdDraw.java	/^    private static void pixel(double x, double y) {$/;"	m	class:StdDraw	file:
+pixel	examples/StdDraw.java	/^    private static void pixel(double x, double y) {$/;"	m	class:StdDraw	file:
+point	StdDraw.java	/^    public static void point(double x, double y) {$/;"	m	class:StdDraw
+point	examples/StdDraw.java	/^    public static void point(double x, double y) {$/;"	m	class:StdDraw
+poisson	examples/StdRandom.java	/^    public static int poisson(double lambda) {$/;"	m	class:StdRandom
+polygon	StdDraw.java	/^    public static void polygon(double[] x, double[] y) {$/;"	m	class:StdDraw
+polygon	examples/StdDraw.java	/^    public static void polygon(double[] x, double[] y) {$/;"	m	class:StdDraw
+print	StdOut.java	/^    public static void print() {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(Object x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(boolean x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(byte x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(char x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(double x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(float x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(int x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(long x) {$/;"	m	class:StdOut
+print	StdOut.java	/^    public static void print(short x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print() {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(Object x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(boolean x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(byte x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(char x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(double x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(float x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(int x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(long x) {$/;"	m	class:StdOut
+print	examples/StdOut.java	/^    public static void print(short x) {$/;"	m	class:StdOut
+printf	StdOut.java	/^    public static void printf(Locale locale, String format, Object... args) {$/;"	m	class:StdOut
+printf	StdOut.java	/^    public static void printf(String format, Object... args) {$/;"	m	class:StdOut
+printf	examples/StdOut.java	/^    public static void printf(Locale locale, String format, Object... args) {$/;"	m	class:StdOut
+printf	examples/StdOut.java	/^    public static void printf(String format, Object... args) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println() {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(Object x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(boolean x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(byte x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(char x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(double x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(float x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(int x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(long x) {$/;"	m	class:StdOut
+println	StdOut.java	/^    public static void println(short x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println() {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(Object x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(boolean x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(byte x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(char x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(double x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(float x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(int x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(long x) {$/;"	m	class:StdOut
+println	examples/StdOut.java	/^    public static void println(short x) {$/;"	m	class:StdOut
+random	examples/StdRandom.java	/^    private static Random random;    \/\/ pseudo-random number generator$/;"	f	class:StdRandom	file:
+random	examples/StdRandom.java	/^    public static double random() {$/;"	m	class:StdRandom
+readAll	In.java	/^    public String readAll() {$/;"	m	class:In
+readAll	examples/In.java	/^    public String readAll() {$/;"	m	class:In
+readAllDoubles	In.java	/^    public double[] readAllDoubles() {$/;"	m	class:In
+readAllDoubles	examples/In.java	/^    public double[] readAllDoubles() {$/;"	m	class:In
+readAllInts	In.java	/^    public int[] readAllInts() {$/;"	m	class:In
+readAllInts	examples/In.java	/^    public int[] readAllInts() {$/;"	m	class:In
+readAllLines	In.java	/^    public String[] readAllLines() {$/;"	m	class:In
+readAllLines	examples/In.java	/^    public String[] readAllLines() {$/;"	m	class:In
+readAllStrings	In.java	/^    public String[] readAllStrings() {$/;"	m	class:In
+readAllStrings	examples/In.java	/^    public String[] readAllStrings() {$/;"	m	class:In
+readBodies	NBody.java	/^	public static Body[] readBodies(String fileName) {$/;"	m	class:NBody
+readBoolean	In.java	/^    public boolean readBoolean() {$/;"	m	class:In
+readBoolean	examples/In.java	/^    public boolean readBoolean() {$/;"	m	class:In
+readByte	In.java	/^    public byte readByte() {$/;"	m	class:In
+readByte	examples/In.java	/^    public byte readByte() {$/;"	m	class:In
+readChar	In.java	/^    public char readChar() {$/;"	m	class:In
+readChar	examples/In.java	/^    public char readChar() {$/;"	m	class:In
+readDouble	In.java	/^    public double readDouble() {$/;"	m	class:In
+readDouble	examples/In.java	/^    public double readDouble() {$/;"	m	class:In
+readDoubles	In.java	/^    public static double[] readDoubles() {$/;"	m	class:In
+readDoubles	In.java	/^    public static double[] readDoubles(String filename) {$/;"	m	class:In
+readDoubles	examples/In.java	/^    public static double[] readDoubles() {$/;"	m	class:In
+readDoubles	examples/In.java	/^    public static double[] readDoubles(String filename) {$/;"	m	class:In
+readFloat	In.java	/^    public float readFloat() {$/;"	m	class:In
+readFloat	examples/In.java	/^    public float readFloat() {$/;"	m	class:In
+readInt	In.java	/^    public int readInt() {$/;"	m	class:In
+readInt	examples/In.java	/^    public int readInt() {$/;"	m	class:In
+readInts	In.java	/^    public static int[] readInts() {$/;"	m	class:In
+readInts	In.java	/^    public static int[] readInts(String filename) {$/;"	m	class:In
+readInts	examples/In.java	/^    public static int[] readInts() {$/;"	m	class:In
+readInts	examples/In.java	/^    public static int[] readInts(String filename) {$/;"	m	class:In
+readLine	In.java	/^    public String readLine() {$/;"	m	class:In
+readLine	examples/In.java	/^    public String readLine() {$/;"	m	class:In
+readLong	In.java	/^    public long readLong() {$/;"	m	class:In
+readLong	examples/In.java	/^    public long readLong() {$/;"	m	class:In
+readRadius	NBody.java	/^	public static double readRadius(String fileName) {$/;"	m	class:NBody
+readShort	In.java	/^    public short readShort() {$/;"	m	class:In
+readShort	examples/In.java	/^    public short readShort() {$/;"	m	class:In
+readString	In.java	/^    public String readString() {$/;"	m	class:In
+readString	examples/In.java	/^    public String readString() {$/;"	m	class:In
+readStrings	In.java	/^    public static String[] readStrings() {$/;"	m	class:In
+readStrings	In.java	/^    public static String[] readStrings(String filename) {$/;"	m	class:In
+readStrings	examples/In.java	/^    public static String[] readStrings() {$/;"	m	class:In
+readStrings	examples/In.java	/^    public static String[] readStrings(String filename) {$/;"	m	class:In
+rectangle	StdDraw.java	/^    public static void rectangle(double x, double y, double halfWidth, double halfHeight) {$/;"	m	class:StdDraw
+rectangle	examples/StdDraw.java	/^    public static void rectangle(double x, double y, double halfWidth, double halfHeight) {$/;"	m	class:StdDraw
+round	TestCalcNetForceExertedByXY.java	/^    private static double round(double value, int places) {$/;"	m	class:TestCalcNetForceExertedByXY	file:
+save	StdDraw.java	/^    public static void save(String filename) {$/;"	m	class:StdDraw
+save	examples/StdDraw.java	/^    public static void save(String filename) {$/;"	m	class:StdDraw
+scaleX	StdDraw.java	/^    private static double  scaleX(double x) { return width  * (x - xmin) \/ (xmax - xmin); }$/;"	m	class:StdDraw	file:
+scaleX	examples/StdDraw.java	/^    private static double  scaleX(double x) { return width  * (x - xmin) \/ (xmax - xmin); }$/;"	m	class:StdDraw	file:
+scaleY	StdDraw.java	/^    private static double  scaleY(double y) { return height * (ymax - y) \/ (ymax - ymin); }$/;"	m	class:StdDraw	file:
+scaleY	examples/StdDraw.java	/^    private static double  scaleY(double y) { return height * (ymax - y) \/ (ymax - ymin); }$/;"	m	class:StdDraw	file:
+scanner	In.java	/^    private Scanner scanner;$/;"	f	class:In	file:
+scanner	examples/In.java	/^    private Scanner scanner;$/;"	f	class:In	file:
+seed	examples/StdRandom.java	/^    private static long seed;        \/\/ pseudo-random number generator seed$/;"	f	class:StdRandom	file:
+setCanvasSize	StdDraw.java	/^    public static void setCanvasSize() {$/;"	m	class:StdDraw
+setCanvasSize	StdDraw.java	/^    public static void setCanvasSize(int canvasWidth, int canvasHeight) {$/;"	m	class:StdDraw
+setCanvasSize	examples/StdDraw.java	/^    public static void setCanvasSize() {$/;"	m	class:StdDraw
+setCanvasSize	examples/StdDraw.java	/^    public static void setCanvasSize(int canvasWidth, int canvasHeight) {$/;"	m	class:StdDraw
+setFont	StdDraw.java	/^    public static void setFont() {$/;"	m	class:StdDraw
+setFont	StdDraw.java	/^    public static void setFont(Font font) {$/;"	m	class:StdDraw
+setFont	examples/StdDraw.java	/^    public static void setFont() {$/;"	m	class:StdDraw
+setFont	examples/StdDraw.java	/^    public static void setFont(Font font) {$/;"	m	class:StdDraw
+setPenColor	StdDraw.java	/^    public static void setPenColor() {$/;"	m	class:StdDraw
+setPenColor	StdDraw.java	/^    public static void setPenColor(Color color) {$/;"	m	class:StdDraw
+setPenColor	StdDraw.java	/^    public static void setPenColor(int red, int green, int blue) {$/;"	m	class:StdDraw
+setPenColor	examples/StdDraw.java	/^    public static void setPenColor() {$/;"	m	class:StdDraw
+setPenColor	examples/StdDraw.java	/^    public static void setPenColor(Color color) {$/;"	m	class:StdDraw
+setPenColor	examples/StdDraw.java	/^    public static void setPenColor(int red, int green, int blue) {$/;"	m	class:StdDraw
+setPenRadius	StdDraw.java	/^    public static void setPenRadius() {$/;"	m	class:StdDraw
+setPenRadius	StdDraw.java	/^    public static void setPenRadius(double radius) {$/;"	m	class:StdDraw
+setPenRadius	examples/StdDraw.java	/^    public static void setPenRadius() {$/;"	m	class:StdDraw
+setPenRadius	examples/StdDraw.java	/^    public static void setPenRadius(double radius) {$/;"	m	class:StdDraw
+setScale	StdDraw.java	/^    public static void setScale() {$/;"	m	class:StdDraw
+setScale	StdDraw.java	/^    public static void setScale(double min, double max) {$/;"	m	class:StdDraw
+setScale	examples/StdDraw.java	/^    public static void setScale() {$/;"	m	class:StdDraw
+setScale	examples/StdDraw.java	/^    public static void setScale(double min, double max) {$/;"	m	class:StdDraw
+setSeed	examples/StdRandom.java	/^    public static void setSeed(long s) {$/;"	m	class:StdRandom
+setXscale	StdDraw.java	/^    public static void setXscale() {$/;"	m	class:StdDraw
+setXscale	StdDraw.java	/^    public static void setXscale(double min, double max) {$/;"	m	class:StdDraw
+setXscale	examples/StdDraw.java	/^    public static void setXscale() {$/;"	m	class:StdDraw
+setXscale	examples/StdDraw.java	/^    public static void setXscale(double min, double max) {$/;"	m	class:StdDraw
+setYscale	StdDraw.java	/^    public static void setYscale() {$/;"	m	class:StdDraw
+setYscale	StdDraw.java	/^    public static void setYscale(double min, double max) {$/;"	m	class:StdDraw
+setYscale	examples/StdDraw.java	/^    public static void setYscale() {$/;"	m	class:StdDraw
+setYscale	examples/StdDraw.java	/^    public static void setYscale(double min, double max) {$/;"	m	class:StdDraw
+show	StdDraw.java	/^    public static void show() {$/;"	m	class:StdDraw
+show	StdDraw.java	/^    public static void show(int t) {$/;"	m	class:StdDraw
+show	examples/StdDraw.java	/^    public static void show() {$/;"	m	class:StdDraw
+show	examples/StdDraw.java	/^    public static void show(int t) {$/;"	m	class:StdDraw
+shuffle	examples/StdRandom.java	/^    public static void shuffle(Object[] a) {$/;"	m	class:StdRandom
+shuffle	examples/StdRandom.java	/^    public static void shuffle(Object[] a, int lo, int hi) {$/;"	m	class:StdRandom
+shuffle	examples/StdRandom.java	/^    public static void shuffle(double[] a) {$/;"	m	class:StdRandom
+shuffle	examples/StdRandom.java	/^    public static void shuffle(double[] a, int lo, int hi) {$/;"	m	class:StdRandom
+shuffle	examples/StdRandom.java	/^    public static void shuffle(int[] a) {$/;"	m	class:StdRandom
+shuffle	examples/StdRandom.java	/^    public static void shuffle(int[] a, int lo, int hi) {$/;"	m	class:StdRandom
+square	StdDraw.java	/^    public static void square(double x, double y, double halfLength) {$/;"	m	class:StdDraw
+square	examples/StdDraw.java	/^    public static void square(double x, double y, double halfLength) {$/;"	m	class:StdDraw
+std	StdDraw.java	/^    private static StdDraw std = new StdDraw();$/;"	f	class:StdDraw	file:
+std	examples/StdDraw.java	/^    private static StdDraw std = new StdDraw();$/;"	f	class:StdDraw	file:
+text	StdDraw.java	/^    public static void text(double x, double y, String text) {$/;"	m	class:StdDraw
+text	StdDraw.java	/^    public static void text(double x, double y, String text, double degrees) {$/;"	m	class:StdDraw
+text	examples/StdDraw.java	/^    public static void text(double x, double y, String text) {$/;"	m	class:StdDraw
+text	examples/StdDraw.java	/^    public static void text(double x, double y, String text, double degrees) {$/;"	m	class:StdDraw
+textLeft	StdDraw.java	/^    public static void textLeft(double x, double y, String text) {$/;"	m	class:StdDraw
+textLeft	examples/StdDraw.java	/^    public static void textLeft(double x, double y, String text) {$/;"	m	class:StdDraw
+textRight	StdDraw.java	/^    public static void textRight(double x, double y, String text) {$/;"	m	class:StdDraw
+textRight	examples/StdDraw.java	/^    public static void textRight(double x, double y, String text) {$/;"	m	class:StdDraw
+uniform	examples/StdRandom.java	/^    public static double uniform() {$/;"	m	class:StdRandom
+uniform	examples/StdRandom.java	/^    public static double uniform(double a, double b) {$/;"	m	class:StdRandom
+uniform	examples/StdRandom.java	/^    public static int uniform(int a, int b) {$/;"	m	class:StdRandom
+uniform	examples/StdRandom.java	/^    public static int uniform(int n) {$/;"	m	class:StdRandom
+update	Body.java	/^	public void update(double dt, double fX, double fY) {$/;"	m	class:Body
+userX	StdDraw.java	/^    private static double   userX(double x) { return xmin + x * (xmax - xmin) \/ width;    }$/;"	m	class:StdDraw	file:
+userX	examples/StdDraw.java	/^    private static double   userX(double x) { return xmin + x * (xmax - xmin) \/ width;    }$/;"	m	class:StdDraw	file:
+userY	StdDraw.java	/^    private static double   userY(double y) { return ymax - y * (ymax - ymin) \/ height;   }$/;"	m	class:StdDraw	file:
+userY	examples/StdDraw.java	/^    private static double   userY(double y) { return ymax - y * (ymax - ymin) \/ height;   }$/;"	m	class:StdDraw	file:
+width	StdDraw.java	/^    private static int width  = DEFAULT_SIZE;$/;"	f	class:StdDraw	file:
+width	examples/StdDraw.java	/^    private static int width  = DEFAULT_SIZE;$/;"	f	class:StdDraw	file:
+xmax	StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+xmax	examples/StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+xmin	StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+xmin	examples/StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+xxPos	Body.java	/^	double xxPos;$/;"	f	class:Body
+xxVel	Body.java	/^	double xxVel;$/;"	f	class:Body
+ymax	StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+ymax	examples/StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+ymin	StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+ymin	examples/StdDraw.java	/^    private static double xmin, ymin, xmax, ymax;$/;"	f	class:StdDraw	file:
+yyPos	Body.java	/^	double yyPos;$/;"	f	class:Body
+yyVel	Body.java	/^	double yyVel;$/;"	f	class:Body
