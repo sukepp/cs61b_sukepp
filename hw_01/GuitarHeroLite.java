@@ -10,6 +10,9 @@ public class GuitarHeroLite {
         GuitarString stringA = new GuitarString(CONCERT_A);
         GuitarString stringC = new GuitarString(CONCERT_C);
 
+        //stringA.pluck();
+        //stringC.pluck();
+
         while (true) {
 
             /* check if the user has typed a key; if so, process it */
