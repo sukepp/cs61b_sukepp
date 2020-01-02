@@ -93,8 +93,9 @@ public class Percolation {
         }
 
         if (!isOpen(row, col)) return false;
-        return unionFind.connected(TOP, ufIndex(row, col))
-                && unionFindTopOnly.connected(TOP, ufIndex(row, col));
+        //return unionFind.connected(TOP, ufIndex(row, col))
+                //&& unionFindTopOnly.connected(TOP, ufIndex(row, col));
+                return unionFindTopOnly.connected(TOP, ufIndex(row, col));
     }
 
     /**
