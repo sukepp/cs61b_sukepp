@@ -10,7 +10,7 @@ public class Percolation {
     /**
      * Back up unionFind, ONLY connected to the virtual TOP but not BOTTOM.
      */
-    //private WeightedQuickUnionUF unionFindTopOnly;
+    private WeightedQuickUnionUF unionFindTopOnly;
     private int N;
     private int openCount;
     private int TOP;
@@ -25,7 +25,7 @@ public class Percolation {
         }
 
         this.unionFind = new WeightedQuickUnionUF(N * N + 2);
-        //this.unionFindTopOnly = new WeightedQuickUnionUF(N * N + 2);
+        this.unionFindTopOnly = new WeightedQuickUnionUF(N * N + 2);
         this.grid = new boolean[N][N];
         this.openCount = 0;
         this.N = N;
@@ -48,12 +48,12 @@ public class Percolation {
             y = direction[1] + col;
             if (!isOutOfBound(x, y) && isOpen(x, y)) {
                 unionFind.union(ufIndex(row, col), ufIndex(x, y));
-                //unionFindTopOnly.union(ufIndex(row, col), ufIndex(x, y));
+                unionFindTopOnly.union(ufIndex(row, col), ufIndex(x, y));
             }
         }
         if (row == 0) {
             unionFind.union(TOP, ufIndex(row, col));
-            //unionFindTopOnly.union(TOP, ufIndex(row, col));
+            unionFindTopOnly.union(TOP, ufIndex(row, col));
         }
         if (row == N - 1) unionFind.union(BOTTOM, ufIndex(row, col));
     }
@@ -93,9 +93,8 @@ public class Percolation {
         }
 
         if (!isOpen(row, col)) return false;
-        //return unionFind.connected(TOP, ufIndex(row, col))
-        //        && unionFindTopOnly.connected(TOP, ufIndex(row, col));
-        return unionFind.connected(TOP, ufIndex(row, col));
+        return unionFind.connected(TOP, ufIndex(row, col))
+                && unionFindTopOnly.connected(TOP, ufIndex(row, col));
     }
 
     /**
